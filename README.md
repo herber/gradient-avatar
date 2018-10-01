@@ -16,6 +16,8 @@
 
 Generate beautiful and unique avatars for your users. `gradient-avatar` was inspired by Zeit.
 
+`gradient-avatar` is also available as a [microservice](https://github.com/usemeta/gradient-avatar-service).
+
 ## Install
 
 ```
