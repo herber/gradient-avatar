@@ -3,6 +3,14 @@
 <h1 align="center">Gradient Avatar</h1>
 
 <p align="center">🌈 Beautiful default avatars.</p>
+<p align="center">
+  <a href="https://travis-ci.org/usemeta/gradient-avatar">
+    <img src="https://travis-ci.org/usemeta/gradient-avatar.svg?branch=master" alt="Build Status" />
+  </a>
+  <a href="https://codecov.io/gh/usemeta/gradient-avatar">
+    <img src="https://codecov.io/gh/usemeta/gradient-avatar/branch/master/graph/badge.svg" />
+  </a>
+</p>
 
 ## About 
 
