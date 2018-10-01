@@ -1,0 +1,49 @@
+{
+  "name": "gradient-avatar",
+  "version": "1.0.0",
+  "description": "Beautiful default avatars",
+  "license": "MIT",
+  "repository": "usemeta/gradient-avatar",
+  "author": {
+    "name": "Tobias Herber",
+    "email": "tobihrbr@gmail.com",
+    "url": "https://tobihrbr.com"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hsl",
+    "rgb",
+    "convert",
+    "to",
+    "color",
+    "colors"
+  ],
+  "dependencies": {
+    "hsl-rgb": "^1.0.0",
+    "hsl-triad": "^1.0.0",
+    "string-hash": "^1.1.3"
+  },
+  "devDependencies": {
+    "codecov": "^3.1.0",
+    "jest": "^23.6.0"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "coverageDirectory": "./coverage",
+    "coverageReporters": [
+      "lcov",
+      "text"
+    ],
+    "testMatch": [
+      "**/test/**"
+    ]
+  }
+}
