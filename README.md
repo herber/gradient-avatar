@@ -57,4 +57,9 @@ The generated avatar svg.
 
 ## License
 
-MIT © [Tobias Herber](http://tobihrbr.com)
+MIT © [Tobias Herber](https://herber.space)
+
+<p align="center">
+  <br/>
+  <img width="200px" src="https://github.com/varld/branding/blob/master/varld/Made%20by.svg" />
+</p>

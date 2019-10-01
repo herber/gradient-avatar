@@ -6,8 +6,8 @@
   "repository": "usemeta/gradient-avatar",
   "author": {
     "name": "Tobias Herber",
-    "email": "tobihrbr@gmail.com",
-    "url": "https://tobihrbr.com"
+    "email": "gh@herber.space",
+    "url": "https://herber.space"
   },
   "engines": {
     "node": ">=8"
