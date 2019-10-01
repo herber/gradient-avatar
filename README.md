@@ -4,11 +4,11 @@
 
 <p align="center">🌈 Beautiful default avatars.</p>
 <p align="center">
-  <a href="https://travis-ci.org/usemeta/gradient-avatar">
-    <img src="https://travis-ci.org/usemeta/gradient-avatar.svg?branch=master" alt="Build Status" />
+  <a href="https://travis-ci.org/varld/gradient-avatar">
+    <img src="https://travis-ci.org/varld/gradient-avatar.svg?branch=master" alt="Build Status" />
   </a>
-  <a href="https://codecov.io/gh/usemeta/gradient-avatar">
-    <img src="https://codecov.io/gh/usemeta/gradient-avatar/branch/master/graph/badge.svg" />
+  <a href="https://codecov.io/gh/varld/gradient-avatar">
+    <img src="https://codecov.io/gh/varld/gradient-avatar/branch/master/graph/badge.svg" />
   </a>
 </p>
 
@@ -57,4 +57,9 @@ The generated avatar svg.
 
 ## License
 
-MIT © [Tobias Herber](http://tobihrbr.com)
+MIT © [Tobias Herber](https://herber.space)
+
+<p align="center">
+  <br/>
+  <img width="200px" src="https://github.com/varld/branding/blob/master/varld/Made%20by.svg" />
+</p>

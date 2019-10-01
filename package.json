@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Beautiful default avatars",
   "license": "MIT",
-  "repository": "usemeta/gradient-avatar",
+  "repository": "varld/gradient-avatar",
   "author": {
     "name": "Tobias Herber",
-    "email": "tobihrbr@gmail.com",
-    "url": "https://tobihrbr.com"
+    "email": "gh@herber.space",
+    "url": "https://herber.space"
   },
   "engines": {
     "node": ">=8"
