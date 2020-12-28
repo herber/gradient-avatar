@@ -1,6 +1,6 @@
 {
   "name": "gradient-avatar",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Beautiful default avatars",
   "license": "MIT",
   "repository": "varld/gradient-avatar",
@@ -9,6 +9,8 @@
     "email": "gh@herber.space",
     "url": "https://herber.space"
   },
+  "main": "./index.js",
+  "types": "./index.d.ts",
   "engines": {
     "node": ">=8"
   },
@@ -16,7 +18,8 @@
     "test": "jest"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "keywords": [
     "hsl",
