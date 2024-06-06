@@ -3,14 +3,6 @@
 <h1 align="center">Gradient Avatar</h1>
 
 <p align="center">🌈 Beautiful default avatars.</p>
-<p align="center">
-  <a href="https://travis-ci.org/varld/gradient-avatar">
-    <img src="https://travis-ci.org/varld/gradient-avatar.svg?branch=master" alt="Build Status" />
-  </a>
-  <a href="https://codecov.io/gh/varld/gradient-avatar">
-    <img src="https://codecov.io/gh/varld/gradient-avatar/branch/master/graph/badge.svg" />
-  </a>
-</p>
 
 ## About 
 
@@ -58,5 +50,3 @@ The generated avatar svg.
 ## License
 
 MIT © [Tobias Herber](https://github.com/herber)
-
-[![Made by Varld](https://potato.varld.co/oss/badge.svg)](https://varld.co)
